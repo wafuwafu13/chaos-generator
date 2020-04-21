@@ -19,7 +19,7 @@ $ lambdaの値を入力してください:  <input number>
 
 x0 = 0.03 に固定
 
-#### 定常状態(1~<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> &#x03BB; <!-- greek small letter lambda --> </mi> </math>~3)
+### 定常状態(1~<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> &#x03BB; <!-- greek small letter lambda --> </mi> </math>~3)
 
 ```time_series.py```
 
@@ -30,7 +30,7 @@ x0 = 0.03 に固定
 <img width="597" alt="スクリーンショット 2020-04-21 09 55 50" src="https://user-images.githubusercontent.com/50798936/79813319-4ac60780-83b6-11ea-86fe-590bd4eff3dc.png">
 
 
-#### アトラクタ出現(3~<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> &#x03BB; <!-- greek small letter lambda --> </mi> </math>~3.57)
+### アトラクタ出現(3~<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> &#x03BB; <!-- greek small letter lambda --> </mi> </math>~3.57)
 
 ```time_series.py```
 
@@ -41,7 +41,8 @@ x0 = 0.03 に固定
 <img width="584" alt="スクリーンショット 2020-04-21 09 59 44" src="https://user-images.githubusercontent.com/50798936/79813530-e192c400-83b6-11ea-82e8-7e3d3beceb85.png">
 
 
-#### カオス
+### カオス(3.57~<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> &#x03BB; <!-- greek small letter lambda --> </mi> </math>~4)
+
 
 ```time_series.py```
 
